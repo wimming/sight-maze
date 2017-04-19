@@ -1,3 +1,6 @@
+# 这是一个用cocos2d-JS引擎编写的小小迷宫程序～
+
+
 # Cocos2d-JS Single File Engine User Guide
 
 This guide is for the usage of single file engine of Cocos2d-JS which can be retrieved from [the online downloader](http://cocos2d-x.org/filecenter/jsbuilder/).
